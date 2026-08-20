@@ -19,6 +19,6 @@ Computer Science Student  Software Developer | C++ | Python | Flutter | SQL | Te
 
 <h2>🛠️ Languages and Tools</h2>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,html,css,js,mysql,git,github" />
 </p>
