@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Talal Nasir</h1>
 
-<!--
-**TalalNasir1/TalalNasir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Student  Software Developer | C++ | Python | Flutter | SQL | Tech Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 📱 Learning Flutter & Dart
+- 🤖 Interested in Artificial Intelligence
+- 🌐 Learning Web Development and MERN Stack
+- 💻 I enjoy building software and solving problems
+- 🚀 Currently improving my development skills
